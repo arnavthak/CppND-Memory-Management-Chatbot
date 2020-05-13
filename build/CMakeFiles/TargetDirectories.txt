@@ -1,0 +1,3 @@
+/home/arnav/memory-management-chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/arnav/memory-management-chatbot/build/CMakeFiles/membot.dir
+/home/arnav/memory-management-chatbot/build/CMakeFiles/edit_cache.dir
